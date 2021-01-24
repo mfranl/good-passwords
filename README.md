@@ -12,4 +12,4 @@
 
 ### Once all options are selected, a password is displayed on the page.
 
-![Password Generator page](/Users/maggie/Desktop/Code/PW-Generator/Password Generator.png "Optional Title")
+
