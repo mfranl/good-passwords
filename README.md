@@ -9,3 +9,7 @@
 ### The first prompt asks the user to choose a password length between 8 and 128 characters.
 
 ### Once the user inputs a valid number and submits, a confirm box appears to allow the user to select yes/no (boolean) if they would like to use lower case, upper case, numbers, and special characters.
+
+### Once all options are selected, a password is displayed on the page.
+
+![Password Generator page](/Users/maggie/Desktop/Code/PW-Generator/Password Generator.png "Optional Title")
